@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-test/
+.backup-harmonisation/
+.tsupgrader/
+.expo/
+*.log
+after-login2.png
